@@ -4,5 +4,4 @@ Class Car < Vehicle
 
 
 
-
 end
